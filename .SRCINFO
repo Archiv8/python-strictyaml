@@ -1,0 +1,15 @@
+pkgbase = python-strictyaml
+	pkgdesc = A type-safe YAML parser that parses a restricted subset of the YAML specificaton
+	pkgver = 1.6.1
+	pkgrel = 1
+	url = http://hitchdev.com/strictyaml
+	arch = any
+	license = MIT
+	makedepends = python-setuptools
+	depends = python
+	depends = python-dateutil
+	depends = python-ruamel-yaml
+	source = https://files.pythonhosted.org/packages/source/s/strictyaml/strictyaml-1.6.1.tar.gz
+	sha512sums = 1c699e3aad88d3ca6a2f67b46b83f8a4e09410b2bdaebd623e2b21c173b97cc7301387d305fff3251c48d680c3fadb0879b2d313e869beadf509535de358c292
+
+pkgname = python-strictyaml
